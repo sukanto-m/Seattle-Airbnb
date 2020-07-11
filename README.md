@@ -19,3 +19,4 @@ I've split my analysis into three main parts via Jupyter notebooks, viz:
 - [House listings in Seattle](https://github.com/sukanto-m/Seattle-Airbnb/blob/master/Seattle_House_Listings.ipynb)
 
  
+A concise explanation of m analysis and conclusions can be read [here.](https://medium.com/@m.sukanto/seattle-airbnb-listings-an-analytical-picture-219782bed297)
